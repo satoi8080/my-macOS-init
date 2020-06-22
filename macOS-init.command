@@ -21,6 +21,7 @@ brew cask install iina
 brew cask install karabiner-elements
 brew cask install postman
 brew cask install cyberduck
+brew cask install altserver
 # brew cask install edex-ui
 
 # IoT apps
