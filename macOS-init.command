@@ -8,46 +8,24 @@ brew update
 
 # The following cask Formulaes could be found at https://formulae.brew.sh
 
-brew cask install iterm2
-brew cask install github
-brew cask install notion
-brew cask install discord
-brew cask install jetbrains-toolbox
-brew cask install balenaetcher
-brew cask install google-chrome
-brew cask install google-backup-and-sync
-brew cask install imageoptim
-brew cask install iina
-brew cask install karabiner-elements
-brew cask install postman
-brew cask install cyberduck
-brew cask install altserver
+brew cask install iterm2 github notion discord jetbrains-toolbox balenaetcher google-chrome google-backup-and-sync imageoptim iina karabiner-elements postman cyberduck altserver
 # brew cask install edex-ui
 
 # IoT apps
 
-brew cask install arduino
-brew cask install fritzing
-brew cask install raspberry-pi-imager
+brew cask install arduino fritzing raspberry-pi-imager
 
 # Network apps
 
-brew cask install outline-manager
-brew cask install surge
-brew cask install shadowsocksx
+brew cask install outline-manager surge shadowsocksx
 
 # Writing apps
 
-brew cask install microsoft-office
-brew cask install writefull
-brew cask install youdaodict
+brew cask install microsoft-office writefull youdaodict
 
 # Management apps
 
-brew cask install imazing
-brew cask install profilecreator
-brew cask install synergy
-brew cask install cryptomator
+brew cask install imazing profilecreator synergy cryptomator
 brew install sl
 brew install mas
 
