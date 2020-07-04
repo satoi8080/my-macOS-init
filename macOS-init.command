@@ -1,6 +1,10 @@
 #!bin/bash
 
+# Enable Dock slow motion
 defaults write com.apple.dock slow-motion-allowed -bool YES && killall Dock
+
+# Use the Caps Lock key to switch to and from ABC. Press and hold to enable typing in all uppercase.
+defaults write -g TISRomanSwitchState 1
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
