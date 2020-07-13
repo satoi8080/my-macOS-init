@@ -12,8 +12,11 @@ brew update
 
 # The following cask Formulaes could be found at https://formulae.brew.sh
 
-brew cask install iterm2 github notion discord jetbrains-toolbox balenaetcher google-chrome google-backup-and-sync imageoptim iina karabiner-elements postman cyberduck altserver
+brew cask install iterm2 notion jetbrains-toolbox google-chrome imazing commander-one fantastical
+# brew cask install iterm2 github notion discord jetbrains-toolbox balenaetcher google-chrome google-backup-and-sync imageoptim iina karabiner-elements postman cyberduck altserver
 # brew cask install edex-ui
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # IoT apps
 
